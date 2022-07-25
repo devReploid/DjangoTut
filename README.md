@@ -1,1 +1,1 @@
-# DjangoTut
+# DjangoTut from Django Docs
